@@ -1,0 +1,19 @@
+Both sheets:
+
+ID: Sample ID
+SedimentMass_g: Wet-weight of sediment in replicate
+Conc: Factor for test concentration (A: lowest, D: highest)
+Day: Day of observation
+
+Sheet "GHG Concentrations":
+
+CO2_init: CO2 in ppm prior to sample injection
+CO2_final: CO2 in ppm after sample injection
+CH4_init: CH4 in ppm prior to sample injection
+CH4_final: CH4 in ppm after sample injection
+V_loop: Volume of the closed loop in mL
+
+Sheet "Isotopes":
+
+CH4_d13C: d13C of CH4
+CO2_d13C: d13C of CO2
